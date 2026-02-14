@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ビターフラッペ",
+  "base_artist": "駒形友梨",
+  "createdAt": "2026-02-14T08:02:35.621579Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビターフラッペ",
+      "artist": "駒形友梨",
+      "has_synced": false,
+      "path": "select/pl_01_ビターフラッペ_駒形友梨.txt"
+    }
+  ]
+}
